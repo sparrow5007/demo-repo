@@ -1,3 +1,3 @@
 # Demo
 
-some descriptin
+some description
